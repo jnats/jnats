@@ -1,5 +1,3 @@
-### jnats
-
 he/him/they/them
 
 i do what i find fun :) check out my most recent and biggest project:
