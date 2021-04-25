@@ -5,7 +5,7 @@ he/him/they/them
 i do what i find fun :) check out my most recent and biggest project:
 
 #### salyut.one
-![](salyut.png)
+[![](salyut.png)](https://salyut.one)
 <br>
 <br>
 <br>
