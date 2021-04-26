@@ -1,4 +1,4 @@
-### welcome to my github !
+### welcome to my github ! 👋
 
 #### he/him/they/them
 
@@ -13,5 +13,5 @@ in the meantime, check out a project that actually *matters*:
 <br>
 <br>
 <br>
-### Addendum:
+### addendum:
 [![](npfo.png)](https://www.youtube.com/watch?v=-MkRuV0aCcI) [![](blm.png)](https://blacklivesmatter.com)
