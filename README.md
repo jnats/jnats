@@ -27,4 +27,4 @@ current random quote of choice:
 <br>
 <br>
 <br>
-[![](blm.png)](https://blacklivesmatter.com)
+![](blm.png)
