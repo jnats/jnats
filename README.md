@@ -10,9 +10,22 @@ warning: there's some realllll old bad code hidden within them
 in the meantime, check out a project that actually *matters*:
 
 [salyut.one](https://salyut.one)
+
+i am also very, very pedantic about small and insignificant things, sorry !
+
+check out [CONTRIBUTING.md](CONTRIBUTING.md) for pr guidelines
 <br>
 <br>
 <br>
-addendum:
+#### addendum:
+current random quote of choice:
 <br>
-[![](npfo.png)](https://www.youtube.com/watch?v=-MkRuV0aCcI) [![](blm.png)](https://blacklivesmatter.com)
+<br>
+<br>
+so lets be temple grandin for the night // and find a friendly way to make it die
+
+\- sean bonnette, [ajj - temple grandin too](https://www.youtube.com/watch?v=6-aJziwXbhM)
+<br>
+<br>
+<br>
+[![](blm.png)](https://blacklivesmatter.com)
