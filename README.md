@@ -19,10 +19,11 @@ check out [CONTRIBUTING.md](CONTRIBUTING.md) for pr guidelines
 <br>
 #### addendum:
 current random quote of choice:
-<br>
-*so lets be temple grandin for the night // and find a friendly way to make it die*
 
-\- sean bonnette, [ajj - temple grandin too](https://www.youtube.com/watch?v=6-aJziwXbhM)
+
+### *so lets be temple grandin for the night // and find a friendly way to make it die*
+
+### \- sean bonnette, [ajj - temple grandin too](https://www.youtube.com/watch?v=6-aJziwXbhM)
 <br>
 <br>
 <br>
