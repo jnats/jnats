@@ -1,6 +1,6 @@
 ### welcome to my github ! 👋
 
-#### he/him/they/them
+#### any pronouns, he/him, they/them, she/her etc.
 
 hi! my name is jnats.
 i'm a 17 year old aspiring sysadmin and procrastinator. if you've stumbled across this page, there is no hope for either of us, so why not sit around a while and check out my repos ?
