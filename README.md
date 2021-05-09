@@ -7,9 +7,10 @@ i'm a 17 year old aspiring sysadmin and procrastinator. if you've stumbled acros
 
 warning: there's some realllll old bad code hidden within them
 
-in the meantime, check out a project that actually *matters*:
+in the meantime, check out some projects that actually *matter*:
 
-[salyut.one](https://salyut.one)
+- [salyut.one](https://salyut.one) 
+- [crystalux](https://github.com/crystalux-project)
 
 i am also very, very pedantic about small and insignificant things, sorry !
 
