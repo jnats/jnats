@@ -21,9 +21,9 @@ check out [CONTRIBUTING.md](CONTRIBUTING.md) for pr guidelines
 current random quote of choice:
 
 
-*so lets be temple grandin for the night // and find a friendly way to make it die*
+*i am a video store clerk and an angel of death*
 
-\- sean bonnette, [ajj - temple grandin too](https://www.youtube.com/watch?v=6-aJziwXbhM)
+\- sean bonnette, [ajj - angel of death](https://www.youtube.com/watch?v=m4SUdL5qsaM)
 <br>
 <br>
 <br>
