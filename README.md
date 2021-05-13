@@ -22,9 +22,9 @@ check out [CONTRIBUTING.md](CONTRIBUTING.md) for pr guidelines
 current random quote of choice:
 
 
-*i am a video store clerk and an angel of death*
+*when i was a kid, my whole reality split // i was living a lie*
 
-\- sean bonnette, [ajj - angel of death](https://www.youtube.com/watch?v=m4SUdL5qsaM)
+\- sean bonnette, [ajj - cody's theme](https://www.youtube.com/watch?v=FvSUN7m3KgI)
 <br>
 <br>
 <br>
