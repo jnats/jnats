@@ -22,9 +22,9 @@ check out [CONTRIBUTING.md](CONTRIBUTING.md) for pr guidelines
 current random quote of choice:
 
 
-*when i was a kid, my whole reality split // i was living a lie*
+*but you're all in my head // there's no room left for you*
 
-\- sean bonnette, [ajj - cody's theme](https://www.youtube.com/watch?v=FvSUN7m3KgI)
+\- rob cantor, [tally hall - all of my friends](https://www.youtube.com/watch?v=nqC70w6iD84)
 <br>
 <br>
 <br>
