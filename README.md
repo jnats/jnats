@@ -12,7 +12,7 @@ check out some of my projects:
 - [crystalux](https://github.com/crystalux-project)
 
 ---
-*and everywhere i look // i always find myself aside myself*
+*"and everywhere i look // i always find myself aside myself"*
 
 \- talkshow boy, [talkshow boy - i cut myself](https://www.youtube.com/watch?v=XmCQQopIh6I)
 
