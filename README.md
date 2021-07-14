@@ -1,6 +1,8 @@
-### welcome to my github ! 👋
+# jnats
+18 year old aspiring sysadmin and procrastinator.
 
-#### any pronouns, he/him, they/them, she/her etc.
+he/she/they - any pronouns
+
 ---
 
 hi! my name is jnats.
