@@ -11,7 +11,7 @@ hi! my name is jnats.
 check out some of my projects:
 
 - [salyut.one](https://salyut.one) 
-- [crystalux](https://github.com/crystalux-project)
+- [crystal](https://github.com/crystal-linux)
 
 ---
 *"and everywhere i look // i always find myself aside myself"*
