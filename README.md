@@ -5,7 +5,6 @@ he/she/they - any pronouns
 
 ---
 
-hi! my name is jnats.
 18 year old aspiring sysadmin and procrastinator.
 
 check out some of my projects:
