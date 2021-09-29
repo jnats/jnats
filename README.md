@@ -5,8 +5,6 @@ he/she/they - any pronouns
 
 ---
 
-18 year old aspiring sysadmin and procrastinator.
-
 check out some of my projects:
 
 - [salyut.one](https://salyut.one) 
