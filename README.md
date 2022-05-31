@@ -1,18 +1,33 @@
-# jnats
-18 year old aspiring sysadmin and procrastinator.
+# Michal
+Musician and Software Developer (Almost)
 
-he/she/they - any pronouns
+He/Him, They/Them, Xe/Xim
+
+### Currently using:
+
+- bash
+- rust
+- python
+
+### Learning / Looking to learn:
+
+- haskell
+- elixir
+
+### Check out some of my current projects!
+
+- [tar.black](https://tar.black) 
+- [Crystal Linux](https://getcryst.al)
+- [Pronounce](https://github.com/morbhead/pronounce)
+
+Currently listening to too much of:
+
+[Justice - Cross](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL?si=NodoAozcTZOoOAffIiQAPw)
+
+[<img src="https://images.genius.com/e955886381b22c3a8902518f28ab0676.1000x1000x1.jpg" width="100"/>](https://genius.com/albums/Justice/Cross) 
+
 
 ---
 
-check out some of my projects:
-
-- [salyut.one](https://salyut.one) 
-- [crystal](https://github.com/crystal-linux)
-
----
-*"and everywhere i look // i always find myself aside myself"*
-
-\- talkshow boy, [talkshow boy - i cut myself](https://www.youtube.com/watch?v=XmCQQopIh6I)
 
 ![](blm.png)
