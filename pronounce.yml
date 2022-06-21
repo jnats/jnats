@@ -1,0 +1,25 @@
+---
+title: welcome to hell
+icon:  https://media.discordapp.net/attachments/799373955324313613/972049061060423730/avatar.png
+name:  michal
+age:   18
+pronouns: 
+     - they/them
+     - he/him
+     - xe/xim
+     - vi/vim
+     - name/nameself
+contacts:
+     - "email: michal@tar.black"
+     - "twitter: @homestuckVEVO"
+urls:
+     - "https://tar.black"
+
+colors:
+  background: "#0e0e0eff"
+  foreground: "#eeeeeeff"
+  name:       "#696969ff"
+  info:       "#eeeeeecc"
+  url:
+    normal:   "#eeeeee9d"
+    hover:    "#eeeeeeb9"
