@@ -24,9 +24,7 @@ He/Him, They/Them, Xe/Xim
 
 ### Currently listening to too much of:
 
-[Car Seat Headrest - Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM?si=GXycTlNRTlKryRG_iku92Q)
-
-[<img src="https://media.pitchfork.com/photos/5a661767680819715f1868c7/1:1/w_600/Twin%20Fantasy.jpg" width="100"/>](https://genius.com/albums/Justice/Cross) 
+[<img src="https://media.pitchfork.com/photos/5a661767680819715f1868c7/1:1/w_600/Twin%20Fantasy.jpg" width="100"/>](https://genius.com/albums/Car-seat-headrest/Twin-fantasy-face-to-face) [<img src="https://m.media-amazon.com/images/I/51B+yC40moL._AC_SL1200_.jpg" width="100"/>](https://genius.com/albums/Justice/Cross)
 
 <!-- 
 If you're reading this, hi!
