@@ -1,7 +1,7 @@
 # Michal S.
 It's not my ~~seg~~fault!
 
-He/Him, They/Them, Xe/Xim
+###### He/They/She/Xe
 
 ### Currently using:
 
