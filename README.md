@@ -18,7 +18,7 @@ He/Him, They/Them, Xe/Xim
 
 - [tar.black](https://tar.black) 
 - [Crystal Linux](https://getcryst.al)
-- [Pronounce](https://github.com/morbhead/pronounce)
+- [Pronounce](https://github.com/not-my-segfault/pronounce)
 
 Currently listening to too much of:
 
