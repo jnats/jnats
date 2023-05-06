@@ -22,8 +22,6 @@ It's not my ~~seg~~fault!
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yunohost/yunohost-original.svg" height=15/> [tar.black](https://tar.black) 
 - <img src="https://getcryst.al/site/assets/other/logo.png" width=15/> [Crystal Linux](https://getcryst.al)
-- <img src="https://raw.githubusercontent.com/ikeda-linux/ikeda/main/ikeda.png" height=15/> [Ikeda Linux](https://ikeda.systems)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=15/> [Caveman](https://github.com/Codealchemi/Caveman)
 
 <!-- 
 If you're reading this, hi!
