@@ -1,8 +1,6 @@
 # Michal S.
 It's not my ~~seg~~fault!
 
-###### He/They/She/Xe
-
 ### Currently using:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=15/> Bash
@@ -26,12 +24,6 @@ It's not my ~~seg~~fault!
 - <img src="https://getcryst.al/site/assets/other/logo.png" width=15/> [Crystal Linux](https://getcryst.al)
 - <img src="https://raw.githubusercontent.com/ikeda-linux/ikeda/main/ikeda.png" height=15/> [Ikeda Linux](https://ikeda.systems)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=15/> [Caveman](https://github.com/Codealchemi/Caveman)
-
-### Currently listening to too much of:
-
-[<img src="https://t2.genius.com/unsafe/100x100/https%3A%2F%2Fimages.genius.com%2Fd24208d9735bc7f38e66ce71d1ea0c51.1000x1000x1.jpg"/>](https://genius.com/albums/Car-seat-headrest/Twin-fantasy-face-to-face)
-[<img src="https://t2.genius.com/unsafe/100x100/https%3A%2F%2Fimages.genius.com%2F9256b957e63ce1f4dbd0b78066297f39.1000x1000x1.jpg"/>](https://genius.com/albums/Glass-beach/The-first-glass-beach-album)
-[<img src="https://t2.genius.com/unsafe/100x100/https%3A%2F%2Fimages.genius.com%2F6ace92689d8dcc984b42a8f84b63d342.900x900x1.jpg"/>](https://genius.com/albums/Ajj/Christmas-island)
 
 <!-- 
 If you're reading this, hi!
